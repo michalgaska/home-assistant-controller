@@ -1,0 +1,10 @@
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [CM4_Home_Controller.PrjPcb]
+   Generated File[Bill of Materials-CM4_Home_Controller.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 09:24:21 On 17.03.2022
